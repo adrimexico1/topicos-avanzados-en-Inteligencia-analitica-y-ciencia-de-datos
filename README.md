@@ -1,15 +1,15 @@
 # 📚 Actividades de la materia  
 ## Tópicos Avanzados en Inteligencia Analítica y Ciencia de Datos
+## 👨‍💻 Impartido por
 
+`adsoftsito`
+
+---
 > Este repositorio contiene las actividades desarrolladas como parte del curso de **Maestría en Tecnologías de la Información e Inteligencia Analítica** en la **Universidad Anáhuac**.
 
 > 🎯 **Objetivo:** Aplicar técnicas de ciencia de datos, despliegue de modelos, analítica avanzada y tecnologías modernas de inteligencia artificial.
 
----
 
-## 👨‍💻 Desarrollado por
-
-`adsoftsito`
 ---
 
 ## Autor
