@@ -1,0 +1,33 @@
+3. Persons/pruebas/jessi.JPG
+3. Persons/pruebas/adsoft.JPG
+3. Persons/pruebas/adrian.JPG
+3. Persons/persons_model/data/adrian/
+3. Persons/persons_model/data/adsoft/
+3. Persons/persons_model/data/jessi/
+3. Persons/persons_model/data/simon/
+# Flutter & Dart
+*.dill
+*.apk
+*.so
+*.DS_Store
+.dart_tool/
+build/
+android/.gradle/
+ios/Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Modelos y pesos pesados
+*.h5
+*.pb
+*.ckpt
+*.tflite
+*.data-00000-of-00001
+*.index
+
+# Archivos grandes específicos
+1. linear/linear_client_flutter/build/ios/Release-iphoneos/Flutter.framework.dSYM/
+2. flowers/flowers_client_flutter/.dart_tool/
+2. flowers/flowers_client_flutter/build/
+3. Persons/persons_model/persons/1/variables/
